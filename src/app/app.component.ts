@@ -24,6 +24,8 @@ export class AppComponent  {
     nama :'abc' 
   };
 
+  a=4;
+
   Pesan='';
   KlikButton(){
     this.Pesan='Tombol di tekan';
